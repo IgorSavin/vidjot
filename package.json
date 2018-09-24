@@ -1,0 +1,22 @@
+{
+  "name": "vidjot",
+  "version": "1.0.0",
+  "description": "\"App to create video ideas\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorSavin/vidjot.git"
+  },
+  "author": "Igor Savin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorSavin/vidjot/issues"
+  },
+  "homepage": "https://github.com/IgorSavin/vidjot#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
